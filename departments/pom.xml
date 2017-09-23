@@ -45,7 +45,7 @@
             <artifactId>spring-boot-maven-plugin</artifactId>
             <version>${spring-boot.version}</version>
             <configuration>
-                <mainClass>com.mastertheboss.App</mainClass>
+                <mainClass>pl.training.cloud.departments.DepartmentsMicroservice</mainClass>
             </configuration>
             <executions>
                 <execution>
