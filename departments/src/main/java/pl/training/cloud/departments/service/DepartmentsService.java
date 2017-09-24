@@ -7,7 +7,7 @@ public class DepartmentsService {
 
 
     public String getDepartmentById(Long id) {
-        return "To jest test";
+        return "To jest test1";
     }
 
 }
